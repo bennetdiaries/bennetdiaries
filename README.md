@@ -1,16 +1,27 @@
-## Hi there 👋
+# The Bennet Diaries Project - Official GitHub Hub
 
-<!--
-**bennetdiaries/bennetdiaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![The Bennet Diaries Project Banner](https://bennetdiaries.github.io/assets/images/bennet_portrait.png)
 
-Here are some ideas to get you started:
+Welcome to the official GitHub account for **The Bennet Diaries Project**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This account serves as the central hub for the digital preservation and public dissemination of the journals and correspondence of Bradbury Bennet, Esq. (1797–1881). Our work is managed by a small team based at the University of Bristol, led by Dr. Evelyn Reed.
+
+Our primary goal is to ensure the long-term preservation of these materials and to provide a stable, accessible platform for researchers and enthusiasts alike.
+
+---
+
+### 🏛️ **The Digital Archive**
+
+Our main public-facing archive, containing transcribed journal entries, curated galleries, and contextual information, is hosted on GitHub Pages.
+
+-   **Explore the Archive: [https://bennetdiaries.github.io](https://bennetdiaries.github.io)**
+
+The repository for the archive is also public, allowing for transparency in our transcription and annotation process.
+
+---
+
+### ✉️ **Contact**
+
+For academic inquiries or questions regarding the project, please contact Dr. Reed's team at `bradburybennet@gmail.com`. Please note that due to the volume of correspondence, we may not be able to reply immediately.
+
+*Dr. Evelyn Reed, Project Curator*
