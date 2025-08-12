@@ -1,6 +1,6 @@
 # The Bennet Diaries Project - Official GitHub Hub
 
-![A page from the Bennet Diaries](https://bennetdiaries.github.io/assets/images/1845_08_12_scan_monochrome.png)
+![A perfect signature Bradbury Bennet](https://bennetdiaries.github.io/assets/images/bennet_signature.png)
 
 Welcome to the official GitHub account for **The Bennet Diaries Project**.
 
